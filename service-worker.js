@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anyfin-project/precache-manifest.8062faafd8afa7e9d2b305a994b909cf.js"
+  "/anyfin-project/precache-manifest.3c276d297a059ff869f592328241e967.js"
 );
 
 self.addEventListener('message', (event) => {

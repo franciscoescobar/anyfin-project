@@ -43,10 +43,10 @@ export const CountryList = styled.ul`
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        flex: 1 0 200px;
+        flex: 1 0 400px;
         margin-top: 1rem;
         > p {
-            flex: 1 0 200px;
+            flex: 1 0 450px;
         }
         .results {
             font-size: 16px;

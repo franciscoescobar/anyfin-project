@@ -5,7 +5,6 @@ const access_key = '572ca773558508356656';
   getCountries: async () => {
     const data = await fetch(baseCountriesURL + "all");
     const countries = await data.json();
-    console.log(countries);
     return countries;
   },
   getDataFromCountry: async (code) => {

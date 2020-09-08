@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb6a4031d5f6c7d27f51d4679bde38fd",
+    "revision": "3875f45b75c645049c1a60a6fed9018e",
     "url": "/anyfin-project/index.html"
   },
   {
-    "revision": "06235ac8e2537eea47ea",
+    "revision": "666d49d7878dd46e1e44",
     "url": "/anyfin-project/static/css/main.d5a83b46.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06235ac8e2537eea47ea",
-    "url": "/anyfin-project/static/js/main.a0af1a7c.chunk.js"
+    "revision": "666d49d7878dd46e1e44",
+    "url": "/anyfin-project/static/js/main.21d01771.chunk.js"
   },
   {
     "revision": "9dbdfcf6c84c99e6f446",

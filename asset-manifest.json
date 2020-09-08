@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anyfin-project/static/css/main.d5a83b46.chunk.css",
-    "main.js": "/anyfin-project/static/js/main.a0af1a7c.chunk.js",
-    "main.js.map": "/anyfin-project/static/js/main.a0af1a7c.chunk.js.map",
+    "main.js": "/anyfin-project/static/js/main.21d01771.chunk.js",
+    "main.js.map": "/anyfin-project/static/js/main.21d01771.chunk.js.map",
     "runtime-main.js": "/anyfin-project/static/js/runtime-main.a1499299.js",
     "runtime-main.js.map": "/anyfin-project/static/js/runtime-main.a1499299.js.map",
     "static/js/2.f2bc2f4a.chunk.js": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js",
     "static/js/2.f2bc2f4a.chunk.js.map": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js.map",
     "index.html": "/anyfin-project/index.html",
-    "precache-manifest.3c276d297a059ff869f592328241e967.js": "/anyfin-project/precache-manifest.3c276d297a059ff869f592328241e967.js",
+    "precache-manifest.16f819eb9f170bfadb47e26f36ffb3f8.js": "/anyfin-project/precache-manifest.16f819eb9f170bfadb47e26f36ffb3f8.js",
     "service-worker.js": "/anyfin-project/service-worker.js",
     "static/css/main.d5a83b46.chunk.css.map": "/anyfin-project/static/css/main.d5a83b46.chunk.css.map",
     "static/js/2.f2bc2f4a.chunk.js.LICENSE.txt": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a1499299.js",
     "static/js/2.f2bc2f4a.chunk.js",
     "static/css/main.d5a83b46.chunk.css",
-    "static/js/main.a0af1a7c.chunk.js"
+    "static/js/main.21d01771.chunk.js"
   ]
 }

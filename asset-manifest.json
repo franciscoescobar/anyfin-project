@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anyfin-project/static/css/main.55a03d48.chunk.css",
+    "main.js": "/anyfin-project/static/js/main.905f9eb0.chunk.js",
+    "main.js.map": "/anyfin-project/static/js/main.905f9eb0.chunk.js.map",
+    "runtime-main.js": "/anyfin-project/static/js/runtime-main.a1499299.js",
+    "runtime-main.js.map": "/anyfin-project/static/js/runtime-main.a1499299.js.map",
+    "static/js/2.f2bc2f4a.chunk.js": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js",
+    "static/js/2.f2bc2f4a.chunk.js.map": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js.map",
+    "index.html": "/anyfin-project/index.html",
+    "precache-manifest.8062faafd8afa7e9d2b305a994b909cf.js": "/anyfin-project/precache-manifest.8062faafd8afa7e9d2b305a994b909cf.js",
+    "service-worker.js": "/anyfin-project/service-worker.js",
+    "static/css/main.55a03d48.chunk.css.map": "/anyfin-project/static/css/main.55a03d48.chunk.css.map",
+    "static/js/2.f2bc2f4a.chunk.js.LICENSE.txt": "/anyfin-project/static/js/2.f2bc2f4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1499299.js",
+    "static/js/2.f2bc2f4a.chunk.js",
+    "static/css/main.55a03d48.chunk.css",
+    "static/js/main.905f9eb0.chunk.js"
+  ]
+}

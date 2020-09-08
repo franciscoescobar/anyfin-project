@@ -36,7 +36,7 @@ const Form = () => {
 
     return (
     <FormWrapper>
-        <Title>Choose a country:</Title>
+        <Title>Choose a country</Title>
         <CountriesSelect onChange={onSearchChange} value={search}>
             {
             countries ? 
@@ -49,24 +49,24 @@ const Form = () => {
         {selectedCountry &&
             <CountryList>
                 <li>
-                    <p>Full Country Name</p>
+                    <p className="label">Full Country Name</p>
                     <p className="results">{selectedCountry.name}</p>
                 </li>
                 <li>
-                    <p>Capital</p>
+                    <p className="label">Capital</p>
                     <p className="results">{selectedCountry.capital}</p>
                 </li>
                 <li>
-                    <p>Population</p>
+                    <p className="label">Population</p>
                     <p className="results">{selectedCountry.population.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1.")}</p>
                 </li>
                 <li>
-                    <p>Currency</p>
+                    <p className="label">Currency</p>
                     <p className="results">{selectedCountry.currencies[0].code}</p>
                 </li>
             </CountryList>
         }
-        <Title>Amount in SEK:</Title>
+        <Title>Amount in SEK</Title>
         <MoneyInput onChange={onMoneyChange} value={money}/>
         {selectedCountry &&
             <CurrencyWrapper>

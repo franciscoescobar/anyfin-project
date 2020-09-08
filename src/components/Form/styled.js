@@ -1,17 +1,17 @@
 import styled from 'styled-components';
 export const FormWrapper = styled.form`
+    padding-bottom: 1rem;
     width: 70%;
-    height: 80vh;
-    margin: 0 auto;
     display: flex;
     background: white;  
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
 `;
 export const CountriesSelect = styled.select`
     width: 70%;
-    margin: 0 auto;
-    margin-top: 5%;
+    margin-top: 1rem;
     height: 42px;
     border-radius: 5px;
     border: 1px solid #42a5f5;
@@ -22,8 +22,7 @@ export const CountriesSelect = styled.select`
 export const MoneyInput = styled.input`
     text-align: center;
     width: 30%;
-    margin: 0 auto;
-    margin-top: 5%;
+    margin-top: 1rem;
     height: 42px;
     border-radius: 5px;
     border: 1px solid #42a5f5;
@@ -37,20 +36,24 @@ export const CountryList = styled.ul`
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    margin: 0 20%;
     text-align: center;
     > li {
+        margin: 0;
         display:flex;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        flex: 1 0 300px;
+        flex: 1 0 200px;
         margin-top: 1rem;
         > p {
-            flex: 1 0 300px;
+            flex: 1 0 200px;
         }
         .results {
+            font-size: 16px;
+        }
+        .label {
             font-weight: bold;
+            font-size: 12px;
         }
     }
 `
@@ -64,9 +67,7 @@ export const CurrencyWrapper = styled.div`
     }
 `
 export const Title = styled.h2`
+    text-align: center;
     font-size: 18px;
     font-weight: normal;
-    margin-left: 4rem;
-    margin-top: 2rem;
-    margin-bottom: -1rem;
 `
